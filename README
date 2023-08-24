@@ -1,0 +1,15 @@
+Team: Dhannya Mathew - 1706542 & Saatwik Kambadkone - 1601869
+To run the program:
+1. Open Matlab
+2. Press the 'Run' Arrow
+
+OR through the cmd:
+1. to run type: matlab -nosplash -nodesktop -r "run('filename');"
+where filename is either: lumin_edge.m, cartoonise.m or frosted_oil_paint.m
+2. to close type: exit;
+
+To change the input image:
+1. Add an image to the 'images' folder
+2. Open Matlab
+3. Change the 'source_file' variable to the image name
+4. Press the 'Run' Arrow
